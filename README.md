@@ -83,7 +83,6 @@ Below is a sample simulation waveform showing FIFO **writes, reads, reset behavi
 
 * Standard asynchronous FIFO design concepts
 * UVM-style testbench architecture principles
-* Mentor/Siemens Verification Academy materials
 
 ---
 
